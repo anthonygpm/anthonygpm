@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Anthony Moura 👋
 
-<!--
-**anthonygpm/anthonygpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente curso o terceiro período de Ciência da Computação pela Universidade Federal de Alagoas.
+- 🌱 Atualmente estudando Java e Spring Boot.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonygpm&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygpm&theme=gruvbox"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block", align="center"><br>
+  <img align="center" alt="Anthony-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Anthony-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Anthony-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Anthony-Cplusplus" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Anthony-Postgres" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+</div>
