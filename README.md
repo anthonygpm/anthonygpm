@@ -1,7 +1,7 @@
 ## Olá, eu sou o Anthony Moura 👋
 
 - 🔭 Atualmente curso o terceiro período de Ciência da Computação pela Universidade Federal de Alagoas.
-- 🌱 Atualmente estudando Java e Spring Boot.
+- 🌱 Estudando Java e Spring Boot.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonygpm&show_icons=true&theme=gruvbox"/>
