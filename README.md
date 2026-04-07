@@ -1,6 +1,6 @@
 ## Olá, eu sou o Anthony Moura 👋
 
-- 🔭 Atualmente curso o terceiro período de Ciência da Computação pela Universidade Federal de Alagoas.
+- 🔭 Atualmente curso o quarto período de Ciência da Computação pela Universidade Federal de Alagoas.
 - 🌱 Estudando Java e Spring Boot.
 
 <div align="center">
